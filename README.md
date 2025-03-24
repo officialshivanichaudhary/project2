@@ -1,3 +1,3 @@
 # new project 
 this project is created from local system.
-created by shivani chaudhary .
+it is created by shivani chaudhary .
